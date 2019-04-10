@@ -5,7 +5,9 @@ class Header extends Component {
     return (
       <>
         <nav>
-          <h2>Joenny Garcia</h2>
+          <div>
+            <h2>Joenny Garcia</h2>
+          </div>
           <ul>
             <li>Home</li>
             <li>About</li>
